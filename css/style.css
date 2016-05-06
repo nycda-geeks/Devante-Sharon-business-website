@@ -45,6 +45,12 @@ nav {
 
 
 
+#photo {
+	top:45px;
+	width:100%;
+	background-image: url(../image/tomsgirl.jpg);
+	height:500px;
+}
 
 
 
@@ -61,6 +67,7 @@ nav {
 /*footer*/
 footer {
 	background-color: #5a534c;
+	color:white;
 }
 footer p {
 	padding:10px;
