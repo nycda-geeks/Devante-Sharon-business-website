@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+	width:100%;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size: 20px;
+}
+p {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+nav {
+	color:black;
+	font-size: 24px;
+	width:100%;
+}
+#menu {
+	position:fixed;
+	background: #5a534c;
+}
+#menu img {
+	width:150px;
+}
+#navbar {
+	margin:20px auto;
+}
+#navbar a {
+	padding:0 25px;
+	text-decoration: none;
+	color:black;
+	display:inline-block;
+	width:150px;
+	text-align: center;
+}
+#navbar a:hover {
+	font-weight: bold;
+	color:#db9a3e;
+}
