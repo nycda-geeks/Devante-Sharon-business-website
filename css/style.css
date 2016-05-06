@@ -53,6 +53,25 @@ nav {
 }
 
 
+.block {
+	background-color:#a4cce4;
+	border-radius:5px;
+	padding:5px;
+	color:black;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.block img {
+	margin:5px;
+	width:250px;
+}
+.block h3 {
+	font-size:25px;
+	font-weight:bold;
+	margin:25px auto;
+	text-align: center;
+}
+
 
 
 
@@ -71,6 +90,8 @@ footer {
 }
 footer p {
 	padding:10px;
+	font-size:15px;
+	font-weight: normal;
 }
 footer a {
 	text-decoration: none;
