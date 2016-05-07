@@ -73,6 +73,27 @@ nav {
 }
 
 
+/*contact */
+#contact {
+	margin:150px 0;
+	min-height:750px;
+}
+#contact h1 {
+	width:400px;
+	margin:100px auto;
+}
+#contact a {
+	font-size:30px;
+	color:#8f8f8f;
+	line-height: 3.5em;
+	display:inline-block;
+	transition: all 0.3s;
+}
+#contact a:hover {
+	color:black;
+	text-decoration: none;
+	transform: scale(1.5, 1.5);
+}
 
 
 
