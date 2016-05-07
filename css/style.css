@@ -24,7 +24,7 @@ nav {
 	width:100%; 
 }
 #menu img {
-	width:100%;
+	width:100px;
 	margin:5px;
 }
 #navbar {
@@ -62,8 +62,8 @@ nav {
 	margin-bottom:50px;
 }
 .block img {
-	margin:5px;
-	width:250px;
+	margin:10px;
+	width:100%;
 }
 .block h3 {
 	font-size:25px;
