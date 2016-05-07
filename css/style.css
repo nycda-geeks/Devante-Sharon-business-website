@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body {
+	width:100%;
+	font-family: 'Montserrat', sans-serif;
+	color:black;
+	font-size: 20px;
+}
+p {
+	font-size: 20px;
+	line-height: 30px;
+}
+
+
+/*header*/
+nav {
+	color:white;
+	font-size: 24px;
+	width:100%;
+}
+#menu {
+	position:fixed;
+	background: #5a534c;
+	width:100%;
+}
+#menu img {
+	width:150px;
+	margin:5px;
+}
+#navbar {
+	margin:20px auto;
+}
+#navbar a {
+	padding:0 25px;
+	text-decoration: none;
+	color:white;
+	display:inline-block;
+	width:150px;
+	text-align: center;
+}
+#navbar a:hover {
+	font-weight: bold;
+	color:yellow;
+}
+
+
+
+#photo {
+	top:45px;
+	width:100%;
+	background-image: url(../image/tomsgirl.jpg);
+	height:500px;
+}
+
+
+.block {
+	background-color:#a4cce4;
+	border-radius:5px;
+	padding:5px;
+	color:black;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.block img {
+	margin:5px;
+	width:250px;
+}
+.block h3 {
+	font-size:25px;
+	font-weight:bold;
+	margin:25px auto;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+footer {
+	background-color: #5a534c;
+	color:white;
+}
+footer p {
+	padding:10px;
+	font-size:15px;
+	font-weight: normal;
+}
+footer a {
+	text-decoration: none;
+	color:white;
+}
