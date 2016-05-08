@@ -22,6 +22,7 @@ nav {
 	position:fixed;
 	background: #5a534c;
 	width:100%; 
+	height:75px;
 }
 #menu img {
 	width:100%;
@@ -35,12 +36,45 @@ nav {
 	text-decoration: none;
 	color:white;
 	display:inline-block;
-	width:150px;
-	text-align: center;
+	width:175px;
+	line-height: 40px;
 }
 #navbar a:hover {
 	font-weight: bold;
-	color:yellow;
+	color:#afafaf;
+}
+
+/* dropdown */
+nav ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position: absolute;
+}
+nav ul li {
+	display: inline-block;
+	position: relative;
+}
+ul.sub-menu {
+    display:none;
+}
+nav li ul {    
+    background-color: #5a534c;
+    top:40px;
+}
+nav li li {
+    position:relative;
+    padding:0;
+    display:block;
+    font-size: 18px;
+}
+nav li li a:hover, 
+nav li li a:active {
+	background-color: #1a534f;
+}
+
+nav li li:last-child a {
+    border-bottom:none;
 }
 
 
