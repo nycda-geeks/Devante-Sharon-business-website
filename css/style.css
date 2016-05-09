@@ -151,3 +151,34 @@ footer a {
 	text-decoration: none;
 	transform: scale(1.5, 1.5);
 }
+
+/*lifestyle */
+.block1 {
+	background-color:#a4cce4;
+	border-radius:5px;
+	padding:15px;
+	color:black;
+	margin-top:50px;
+	margin-bottom:50px;
+	z-index: -3
+}
+.block1 img {
+	width:100%;
+}
+.block1 h3 {
+	font-size:25px;
+	font-weight:bold;
+	margin:25px auto;
+	text-align: center;
+}
+
+/*blog */
+.block2 {
+	border-radius:5px;
+	padding:1px;
+	color:black;
+	margin-top:1px;
+	margin-bottom:50px;
+	z-index: -3
+
+}
