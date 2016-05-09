@@ -105,9 +105,6 @@ nav {
 
 /*footer*/
 footer {
-	left:0;
-	bottom:0;
-	width:100%;
 	background-color: #5a534c;
 	color:white;
 }
@@ -123,4 +120,8 @@ footer a {
 
 #sticky {
 	position:absolute;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color: #5a534c;
 }
