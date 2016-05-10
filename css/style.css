@@ -17,6 +17,7 @@ nav {
 	color:white;
 	font-size: 24px;
 	width:100%;
+	top:0;
 }
 #menu {
 	position:fixed;
@@ -136,10 +137,6 @@ nav li li:last-child a {
 
 /*footer*/
 footer {
-	position: absolute;
-	left:0;
-	bottom:0;
-	width:100%;
 	background-color: #5a534c;
 	color:white;
 }
@@ -153,8 +150,7 @@ footer a {
 	color:white;
 }
 
-<<<<<<< HEAD
-=======
+
 /*contact */
 #contact {
 	margin:150px 0;
@@ -176,6 +172,15 @@ footer a {
 	text-decoration: none;
 	transform: scale(1.5, 1.5);
 }
+
+#sticky {
+	position:absolute;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color: #5a534c;
+}
+
 
 /*lifestyle */
 .block1 {
@@ -207,4 +212,3 @@ footer a {
 	z-index: -3
 
 }
->>>>>>> lifestyle
