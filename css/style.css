@@ -1,16 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
-
-body {
-	width:100%;
-	font-family: 'Montserrat', sans-serif;
-	color:black;
-	font-size: 20px;
-}
-p {
-	font-size: 20px;
-	line-height: 30px;
-}
-
 
 /*header*/
 nav {
@@ -129,12 +116,6 @@ nav li li:last-child a {
 }
 
 
-
-
-
-
-
-
 /*footer*/
 footer {
 	background-color: #5a534c;
@@ -182,6 +163,10 @@ footer a {
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> lifestyle
 /*lifestyle */
 .block1 {
 	background-color:#a4cce4;
