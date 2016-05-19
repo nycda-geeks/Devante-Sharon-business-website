@@ -125,6 +125,7 @@ footer a {
 	color:white;
 }
 
+<<<<<<< HEAD
 /*contact */
 #contact {
 	margin:150px 0;
@@ -146,6 +147,8 @@ footer a {
 	text-decoration: none;
 	transform: scale(1.5, 1.5);
 }
+=======
+>>>>>>> 4d36fb27598e0840a7a65d542268beb0ee3d5293
 
 #sticky {
 	position:absolute;
@@ -156,7 +159,10 @@ footer a {
 }
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d36fb27598e0840a7a65d542268beb0ee3d5293
 /*lifestyle */
 .block1 {
 	background-color:#a4cce4;
