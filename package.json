@@ -1,0 +1,25 @@
+
+{
+  "name": "Devante-Sharon-business-website",
+  "version": "1.0.0",
+  "description": "Business website of Toms shoes - customer website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nycda-geeks/Devante-Sharon-business-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nycda-geeks/Devante-Sharon-business-website/issues"
+  },
+  "homepage": "https://github.com/nycda-geeks/Devante-Sharon-business-website#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
